@@ -1,1 +1,2 @@
 # Smart-Traffic-Surveillance-System
+This repository contains a Smart Traffic Surveillance System that utilizes computer vision techniques to monitor and analyze traffic conditions. The system is designed to detect vehicles, track their movements, and provide real-time traffic data.
